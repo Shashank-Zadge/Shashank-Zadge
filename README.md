@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @Shashank-Zadge
 - 👀 I’m interested in Software testing/developing..
-- 🌱 I’m currently learning 
+- 💻 Passionate about Manual & Automation Testing, Core Java, Selenium, API Testing. 
+- 📚 Constantly learning and exploring..
+- 🎓 BE Computer Engineer.
+- 🌱 Actively seeking opportunities in IT.
 - 📫 How to reach me ( shashankbzadge@gmail.com )
 
 <!---
